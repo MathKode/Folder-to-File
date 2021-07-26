@@ -13,6 +13,9 @@ pip3 install binascii
 ````
 pip3 install os
 ``````
+````
+git clone https://github.com/MathKode/Folder-to-File.git
+```````
 
 # Command
 
